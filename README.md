@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 ![Video gif](https://www.dropbox.com/s/ox2l4wflrg5gtow/ezgif.com-gif-maker.gif?dl=0)
 
-<img src="https://www.dropbox.com/s/ox2l4wflrg5gtow/ezgif.com-gif-maker.gif?dl=0" width="140" height="160" alt="Video Walkthrough" />
+<img src="app/src/main/res/drawable-v24/ezgif.com-gif-maker.gif" width="140" height="160" alt="Video Walkthrough" />
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
